@@ -12,7 +12,7 @@ body {
 /*********************************************
                     HEADER
 *********************************************/
- #header {
+ header {
     background-color: #333;
     color: #FFFFFF;
 }
@@ -29,13 +29,13 @@ body {
     width: 30%;
     padding: 0 1.6% 0 1.6%;
 }
-#header img {
+header img {
     max-width: 100%;
 }
 /*********************************************
                     SECTION
 *********************************************/
- #section {
+ section {
     height: 200vh;
 }
 #twelveSigns {
@@ -84,7 +84,7 @@ body {
 /*********************************************
                     FOOTER
 *********************************************/
- #footer {
+ footer {
     background-color: #333;
     color: #FFFFFF;
     clear: both;
