@@ -32,3 +32,12 @@ footer {
 p {
 	padding: 2%;
 }
+.carousel-container {
+	width: 20%;
+	margin: auto;
+}
+.carousel-inner > .item > img,
+      .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+   }
