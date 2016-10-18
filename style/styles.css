@@ -1,5 +1,14 @@
 header {
 	margin: auto;
+	font-family:"Arial";
+	text-align: center;
+}
+#page {
+	width: 80%;
+	margin: auto;
+}
+header .col-lg-12, header .col-sm-4 {
+	background-color: #333333;
 }
 
 .col-lg-12 img {
@@ -25,6 +34,9 @@ span {
 }
 section {
 	min-height: 500px;
+	font:"Sans serif";
+    color: #64e5dd;
+    Font-size: 25px;
 }
 footer {
 	padding: 1% 0 1% 0;
