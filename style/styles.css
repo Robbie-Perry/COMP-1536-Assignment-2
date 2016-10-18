@@ -7,7 +7,10 @@ header {
 }
 
 .col-sm-4 img {
-	width: 100%;
+	width: 50%;
+}
+.col-sm-4 {
+	padding: 1% 0 1% 0;
 }
 .col-md-3 img {
 	width: 90%;
@@ -20,6 +23,12 @@ header {
 span {
 	float:bottom;
 }
+section {
+	min-height: 500px;
+}
 footer {
 	padding: 1% 0 1% 0;
+}
+p {
+	padding: 2%;
 }
